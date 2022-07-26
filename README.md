@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashaswi Kumar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-//<img align="right" src="https://www.sayyadimran.com/wp-content/uploads/2021/02/senior-front-end-developer-openings-1.gif" alt="">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashraj0408&label=Profile%20views&color=0e75b6&style=flat" alt="yashraj0408" /> </p>
 
