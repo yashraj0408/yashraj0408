@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashaswi Kumar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashraj0408&label=Profile%20views&color=0e75b6&style=flat" alt="yashraj0408" /> </p>
-<iframe src="https://gifer.com/embed/Ry6p" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
-<br>
+
 - 👨‍💻 I'm a undergraduate student at **Birla Institute of Technology**
 
 - 🌱 I’m currently learning **DSA and Web Development**
