@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yashaswi Kumar</h1>
+<h1 align="center">Hi 👋, I'm Yashaswi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashraj0408&label=Profile%20views&color=0e75b6&style=flat" alt="yashraj0408" /> </p>
 
 - 👨‍💻 I'm a undergraduate student at **Birla Institute of Technology**
