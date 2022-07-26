@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashaswi Kumar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashraj0408&label=Profile%20views&color=0e75b6&style=flat" alt="yashraj0408" /> </p>
-<img src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-mobile.mp4" width="800" height="400" alt="">
+<img src="[https://thumbs.gfycat.com/CheerySeparateGoldeneye-mobile.mp4](https://i.gifer.com/Ry6p.gif)" width="800" height="400" alt="">
 <br>
 - 👨‍💻 I'm a undergraduate student at **Birla Institute of Technology**
 
