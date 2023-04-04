@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨‍💻 I'm an undergraduate student at **Birla Institute of Technology**<br><br>
-🌱 I’m currently learning **DSA and Web Development**<br><br>
+🌱 I’m currently learning **Flutter**<br><br>
 💬 Ask me about **C++, Web Development**<br><br>
 📫 How to reach me 📧 [Mail](mailto:yashraj7346@gmail.com)
 
