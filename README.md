@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 BTech from Birla Institute of Technology**<br>
+👨‍💻 BTech from **Birla Institute of Technology**<br>
 🌱 I’m currently learning **Flutter**<br>
 💬 Ask me about **C++, Web Development & App Development**<br>
 
